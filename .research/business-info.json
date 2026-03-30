@@ -1,0 +1,20 @@
+{
+  "businessName": "Nhlamulo Tiling",
+  "category": "handyman",
+  "brandColors": {
+    "primary": "#E17055",
+    "secondary": "#FAB1A0",
+    "accent": "#00B894",
+    "dark": "#D63031",
+    "light": "#FFF5F5"
+  },
+  "tagline": "Your Home, Our Care",
+  "services": [
+    "General Repairs",
+    "Painting",
+    "Furniture Assembly",
+    "Door/Window Repairs",
+    "Maintenance",
+    "Renovations"
+  ]
+}
